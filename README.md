@@ -1,1 +1,1 @@
-# project2-react-native
+Edu App - react-native
